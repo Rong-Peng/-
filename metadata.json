@@ -1,0 +1,7 @@
+{
+  "name": "AI 智能去水印工具",
+  "description": "专业去除即梦、海螺等 AI 生成图片水印的工具，支持批量处理与高质量修复。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
